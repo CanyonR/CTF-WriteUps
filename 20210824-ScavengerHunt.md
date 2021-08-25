@@ -39,7 +39,7 @@ Turning back to the .js hint, I knew Google had some automated HTML header scrap
 A. `<meta name="robots" content"noindex">` in the HTML head<br>
 B. `'x-robots-tag: 'noindex'` or `'none'` in the HTTP response header<br>
 
-I looked in the DevTools again. I didn't see any meta tags in the HTML source and in the Network tab, none of the response headers had references to our robot overloards.
+I looked in the DevTools again. I didn't see any meta tags in the HTML source, and in the Network tab, none of the response headers had references to our robot overloards.
 
 ```
   <head>
@@ -149,7 +149,7 @@ Was it time to panic? Maybe almost. Or maybe the hint capitalized Store for a re
 > Congrats! You completed the scavenger hunt. Part 5: #########}
 
 Now all I had to do was put the five flag pieces together and submit it as "picoCTF{#####################################}" to "https://play.picoctf.org/practice/challenge/161?category=1&page=1".<br><br>
-SUCCESS! That brings my picoGym Score up to 420!
+SUCCESS! That brought my picoGym Score up to 420!:sunglasses:
 
 ---
 
