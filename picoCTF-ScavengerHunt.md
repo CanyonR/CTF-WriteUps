@@ -1,8 +1,7 @@
 # CTF Write Up - picoCTF #161 - Scavenger Hunt
 
 2021 Aug. 24<br>
-50 picoGym points | Solve 6055 of 23539 Global Attempts<br>
-(The key is redacted with ###s.)<br>
+Solve 6055 of 23539 Global Attempts<br>
 
 ---
 
