@@ -13,7 +13,7 @@ There is some interesting information hidden around this site http://mercury.pic
 
 ## Preparation
 
-I'm just starting to get my feet wet with CTFs. This picoCTF site has challenges aimed at High School students, so the first problems should all be realitively easy to solve. This flag was only worth 50 points, and I had pretty quickly found a couple other smaller "web exploitation" flags on picoCTF, so I went into this puzzle feeling pretty confident. It took me a fair bit longer than I thought it would...
+I'm just starting to get my feet wet with CTFs. This picoCTF site has challenges aimed at High School students, so the first problems should all be relatively easy to solve. This flag was only worth 50 points, and I had pretty quickly found a couple other smaller "web exploitation" flags on picoCTF, so I went into this puzzle feeling pretty confident. It took me a fair bit longer than I thought it would...
 
 ---
 
