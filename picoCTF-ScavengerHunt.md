@@ -154,4 +154,4 @@ SUCCESS! That brought my picoGym Score up to 420!:sunglasses:
 
 ## Post-Mortem
 
-I got to learn a little bit about how Apache web servers work, got extra practice utilizing Google Chrome's DevTools and reading HTTP headers, and had I some additional fun looking into SSI injections. My main takeaway from this challenge, however, is to be even more persistent when searching online for something you are pretty sure exists. The hints made it clear to me that there was some sort of 'store' file available. When searching for something, "it's always in the last place you look for it."
+I was able to learn a little bit about how Apache web servers work, gained extra practice utilizing Google Chrome's DevTools and reading HTTP headers, and had I some additional fun looking into SSI injections. My main takeaway from this challenge, however, is to be even more persistent when searching online for something I am pretty sure exists. The hints made it clear to me that there was some sort of 'store' file available. When searching for something, "it's always in the last place you look."
