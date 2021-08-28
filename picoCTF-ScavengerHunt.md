@@ -133,7 +133,7 @@ fetch("http://mercury.picoctf.net:5080/", {
 });
 ```
 
-It did not work the first time. So I kept trying. I placed the script in various parts of the request. I changed upgrade-insecure-requests to 0. I tried while fetching /.htaccess instead. Then I remembered reading that the Server Side Include would also work if it was in the respose header. I opened the web app security tool called Burp Suite and visited the target site via a proxy browser configured with API intercept functionality. I intercepted the response header and added the malicious HTML comment. Upon completion of the page load, nothing new or different happened.
+It did not work the first time. So I kept trying. I placed the script in various parts of the request. I changed upgrade-insecure-requests to 0. I tried while fetching /.htaccess instead. Then I remembered reading that the Server Side Include would also work if it was in the respose header, so I opened the web security tool called Burp Suite and visited the target site via a proxy browser in order to intercept the response header and add the malicious HTML comment. Upon completion of the page load, nothing new or different happened.<br>
 Since SSIs were not used anywhere else on the website, I decided that the feature was most likely turned off. This challenge was only supposed to be a Scavenger Hunt, after all. At what point does a Scavenger Hunt become Breaking & Entering?
 I took a long deep breath and looked at the last hint again.
 
